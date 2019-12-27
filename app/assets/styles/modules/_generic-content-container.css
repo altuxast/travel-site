@@ -14,4 +14,8 @@
     font-weight: 700;
   }
 
+  &--centered {
+    text-align: center;
+  }
+
 }
